@@ -1,4 +1,4 @@
-from juggler import juggler
+from pyjuggler import juggler
 from typing import List
 
 

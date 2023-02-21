@@ -1,3 +1,3 @@
-# Juggler
+# PyJuggler
 
 Multi-processing for Python simplified
